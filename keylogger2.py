@@ -23,7 +23,7 @@ email_from = "filip.pajkos@gmail.com"
 email_list = ["filip.pajkos@gmail.com"]
 
 # Define the password (better to reference externally)
-pswd = "kgsskccwnxqqrcgy " # As shown in the video this password is now dead, left in as example only
+pswd = "xzswsakucdicgmaz" # As shown in the video this password is now dead, left in as example only
 
 
 # name the email subject
